@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Trần Huy Toàn 👋
 
-<!--
-**tranhuytoan161104/tranhuytoan161104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **DevOps Engineer** based in **Việt Nam**. I focus on automating infrastructure, optimizing CI/CD pipelines, and ensuring reliable, scalable systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I’m passionate about bridging the gap between development and operations. With extensive experience in container orchestration, infrastructure-as-code, and continuous integration/deployment, I work to enhance system reliability and performance.
+
+---
+
+## Skills & Tools
+
+- **Cloud Platforms:** AWS, Azure, GCP
+- **Containerization & Orchestration:** Docker, Kubernetes
+- **CI/CD:** Jenkins, GitLab CI, CircleCI
+- **Infrastructure as Code:** Terraform, Ansible, CloudFormation
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
+- **Scripting & Automation:** Bash, Python, Go
+
+---
+
+## Projects
+
+
+---
+
+## Contact
+
+---
+
+Thanks for visiting my profile!
